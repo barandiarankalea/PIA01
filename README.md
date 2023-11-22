@@ -1,3 +1,8 @@
-# Tarea: PIA01 - Primer ejercicio en Python
+# Tarea: PIA01 - Habilitando un perfil en el ecosistema de desarrollo de inteligencia aritficial
 
-Este es el primer ejercicio del curso en Python, que incluye el clásico mensaje "Hola Mundo". 
+Apartado 1: 
+ - Se crea una cuenta en GitHub
+ - Se crea un nuevo repositorio llamdo PIA01
+ - Se crea un fichero en python con el mensaje "Hola Mundo"
+Apartado 2:
+   - Conectar con la comunidad en redes sociales vía twitter o linkedin
